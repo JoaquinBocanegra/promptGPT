@@ -5,7 +5,7 @@ Este archivo contiene un prompt diseñado para estudiar conceptos técnicos de m
 ## 📋 Prompt
 
 A partir de aca:
-"Explícame el concepto de 'ejemplo'. Quiero que la explicación sea ascendente en cuanto a complejidad, empezando con conceptos básicos, avanzando a conceptos intermedios y finalizando con explicaciones técnicas avanzadas. Asegúrate de:
+"Explícame el concepto de 'ejemplo'. Quiero que la explicación sea ascendente en cuanto a complejidad, empezando con conceptos básicos, avanzando a conceptos intermedios y finalizando con explicaciones técnicas avanzadas. Quiero que tenga 20 niveles de dificultad. Primero que de una explicación obtenida de una fuente confiable y que deje asentado de que fuente es. Luego asegúrate de:
 
 1. **Incluir analogías claras y prácticas** para cada nivel de complejidad, que faciliten la comprensión.
 2. **Proporcionar ejemplos detallados** que refuercen cada nivel, desde lo más simple hasta lo más complejo.
@@ -13,5 +13,4 @@ A partir de aca:
 4. **Utilizar un lenguaje claro** y evitar términos técnicos sin explicar su significado previamente.
 5. **Incluir fuentes confiables** relacionadas con el tema, como libros, cursos, artículos, o plataformas de aprendizaje, indicando cómo consultarlas.
 6. **Sugerir formas de aprender de manera práctica**, como ejercicios, laboratorios virtuales, proyectos pequeños o entornos de simulación.
-7. **Ofrecer diferentes enfoques de estudio**, como métodos autodidactas, cursos en línea, lecturas complementarias o participación en comunidades relacionadas con el tema.
-8. Si cambio 'ejemplo' por otro término, adapta la respuesta al nuevo concepto, respetando estas mismas pautas."
+7. **Ofrecer diferentes enfoques de estudio**, como métodos autodidactas, cursos en línea, lecturas complementarias o participación en comunidades relacionadas con el tema. Tomate todo el tiempo que necesites para darme la respuesta mejor posible."
