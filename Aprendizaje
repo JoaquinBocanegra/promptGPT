@@ -1,0 +1,17 @@
+# Prompt para Estudio de Conceptos Técnicos con Explicaciones Ascendentes
+
+Este archivo contiene un prompt diseñado para estudiar conceptos técnicos de manera efectiva y estructurada. Su propósito es obtener explicaciones detalladas que van desde lo básico hasta lo avanzado, complementadas con recursos prácticos, analogías y recomendaciones de estudio. Este formato es ideal para mejorar la comprensión, ahorrar tiempo y optimizar el aprendizaje.
+
+## 📋 Prompt
+
+```plaintext
+"Explícame el concepto de 'ejemplo'. Quiero que la explicación sea ascendente en cuanto a complejidad, empezando con conceptos básicos, avanzando a conceptos intermedios y finalizando con explicaciones técnicas avanzadas. Asegúrate de:
+
+1. **Incluir analogías claras y prácticas** para cada nivel de complejidad, que faciliten la comprensión.
+2. **Proporcionar ejemplos detallados** que refuercen cada nivel, desde lo más simple hasta lo más complejo.
+3. **Especificar qué tipo de uso o aplicación práctica tiene el concepto en el contexto técnico (o el área relevante).
+4. **Utilizar un lenguaje claro** y evitar términos técnicos sin explicar su significado previamente.
+5. **Incluir fuentes confiables** relacionadas con el tema, como libros, cursos, artículos, o plataformas de aprendizaje, indicando cómo consultarlas.
+6. **Sugerir formas de aprender de manera práctica**, como ejercicios, laboratorios virtuales, proyectos pequeños o entornos de simulación.
+7. **Ofrecer diferentes enfoques de estudio**, como métodos autodidactas, cursos en línea, lecturas complementarias o participación en comunidades relacionadas con el tema.
+8. Si cambio 'ejemplo' por otro término, adapta la respuesta al nuevo concepto, respetando estas mismas pautas."
